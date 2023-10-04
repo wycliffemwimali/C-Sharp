@@ -1,0 +1,15 @@
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/bin/Debug/net6.0/ForEachstructures
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/bin/Debug/net6.0/ForEachstructures.deps.json
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/bin/Debug/net6.0/ForEachstructures.runtimeconfig.json
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/bin/Debug/net6.0/ForEachstructures.dll
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/bin/Debug/net6.0/ForEachstructures.pdb
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ForEachstructures.csproj.AssemblyReference.cache
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ForEachstructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ForEachstructures.AssemblyInfoInputs.cache
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ForEachstructures.AssemblyInfo.cs
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ForEachstructures.csproj.CoreCompileInputs.cache
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ForEachstructures.dll
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/refint/ForEachstructures.dll
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ForEachstructures.pdb
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ForEachstructures.genruntimeconfig.cache
+/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/Debug/net6.0/ref/ForEachstructures.dll

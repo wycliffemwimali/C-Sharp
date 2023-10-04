@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/anonymous/RiderProjects/C-Sharp/ConsoleApp1/ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "/home/anonymous/RiderProjects/C-Sharp/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/ForEachstructures.csproj",
+      "projectName": "ForEachstructures",
+      "projectPath": "/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/ForEachstructures.csproj",
       "packagesPath": "/home/anonymous/.nuget/packages/",
-      "outputPath": "/home/anonymous/RiderProjects/C-Sharp/ConsoleApp1/obj/",
+      "outputPath": "/home/anonymous/RiderProjects/C-Sharp/ForEachstructures/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/anonymous/.nuget/NuGet/NuGet.Config"
